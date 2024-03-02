@@ -1,11 +1,11 @@
 {
 	"name": "svelte-tea",
-	"version": "1.5.1",
+	"version": "1.5.2",
 	"author": "rickrock3242",
 	"license": "ISC",
 	"repository": {
 		"type": "git",
-	 	"url": "git+https://github.com/rickrock3242/svelte-tea.git"
+	 	"url": "https://github.com/rickrock3242/svelte-tea.git"
 	},
 	"homepage": "https://github.com/rickrock3242/svelte-tea#readme",
 	"prisma": {
