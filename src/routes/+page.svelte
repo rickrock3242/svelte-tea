@@ -7,7 +7,7 @@
 	};
 </script>
 
-<h1>Welcome to SvelteKit + Prisma ORM</h1>
+<h1>Welcome to Tea</h1>
 <h3>You are logged in as <u>{data.user.fullName}</u>
 <button on:click={(e) => resetCookieAndRefresh()}>Log out</button>
 </h3>
