@@ -1,13 +1,15 @@
 {
 	"name": "svelte-tea",
-	"version": "1.5.2",
+	"version": "1.5.3",
 	"author": "rickrock3242",
 	"license": "ISC",
 	"repository": {
 		"type": "git",
 	 	"url": "https://github.com/rickrock3242/svelte-tea.git"
 	},
+	"description": "Try project on Svelte for tea",
 	"homepage": "https://github.com/rickrock3242/svelte-tea#readme",
+	"readme": "https://github.com/rickrock3242/svelte-tea#readme",
 	"prisma": {
 		"seed": "tsx prisma/seed.ts"
 	},
@@ -37,5 +39,9 @@
 		"tslib": "^2.4.1",
 		"tsx": "^3.12.7",
 		"typescript": "^5.0.0"
-	}
+	},
+	"keywords": [
+		"tea",
+		"svelte"
+	]
 }
